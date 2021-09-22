@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="putzplan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/putzplan_jar</output-path>
+    <root id="archive" name="putzplan.jar">
+      <element id="module-output" name="putzplan" />
+    </root>
+  </artifact>
+</component>
